@@ -1,0 +1,1925 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.23183,37.798353 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Alameda ",
+    "Region":"Bay Area ",
+    "County":"Alameda",
+    "Trauma Center":"Highland Alameda County Medical Center",
+    "ACS Adult":"I",
+    "Local EMS Agency Designation - Adult":"I",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7846934,36.74280919 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Central California ",
+    "Region":"Central ",
+    "County":"Fresno",
+    "Trauma Center":"Community Regional Medical Center",
+    "ACS Adult":"I",
+    "Local EMS Agency Designation - Adult":"I",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.263963,34.04944443 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Inland Counties ",
+    "Region":"South East ",
+    "County":"San Bernardino",
+    "Trauma Center":"Loma Linda University Medical Center",
+    "ACS Adult":"I",
+    "Local EMS Agency Designation - Adult":"I",
+    "ACS Peds":"I",
+    "Local EMS Agency Designation -  Peds":"I",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3802694,34.07525966 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Los Angeles ",
+    "Region":"South West ",
+    "County":"Los Angeles",
+    "Trauma Center":"Cedars-Sinai Medical Center",
+    "ACS Adult":"I",
+    "Local EMS Agency Designation - Adult":"I",
+    "ACS Peds":"II",
+    "Local EMS Agency Designation -  Peds":"II",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2949175,33.829691 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Los Angeles ",
+    "Region":"South West ",
+    "County":"Los Angeles",
+    "Trauma Center":"Harbor-UCLA Medical Center",
+    "ACS Adult":"I",
+    "Local EMS Agency Designation - Adult":"I",
+    "ACS Peds":"II",
+    "Local EMS Agency Designation -  Peds":"II",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2081368,34.05946672 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Los Angeles ",
+    "Region":"South West ",
+    "County":"Los Angeles",
+    "Trauma Center":"LAC + USC Medical Center",
+    "ACS Adult":"I",
+    "Local EMS Agency Designation - Adult":"I",
+    "ACS Peds":"II",
+    "Local EMS Agency Designation -  Peds":"II",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4470685,34.0652115 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Los Angeles ",
+    "Region":"South West ",
+    "County":"Los Angeles",
+    "Trauma Center":"Ronald Reagan UCLA Medical Center",
+    "ACS Adult":"I",
+    "Local EMS Agency Designation - Adult":"I",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"I",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.8893093,33.78789375 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Orange ",
+    "Region":"South West ",
+    "County":"Orange",
+    "Trauma Center":"UC Irvine Health",
+    "ACS Adult":"I",
+    "Local EMS Agency Designation - Adult":"I",
+    "ACS Peds":"II",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.382291,33.97686754 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Riverside ",
+    "Region":"South East ",
+    "County":"Riverside",
+    "Trauma Center":"Riverside Community Hospital",
+    "ACS Adult":"I",
+    "Local EMS Agency Designation - Adult":"I",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.4528865,38.55249833 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Sacramento ",
+    "Region":"North ",
+    "County":"Sacramento",
+    "Trauma Center":"University of California, Davis Medical Center",
+    "ACS Adult":"I",
+    "Local EMS Agency Designation - Adult":"I",
+    "ACS Peds":"I",
+    "Local EMS Agency Designation -  Peds":"I",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.1604613,32.75133186 ]
+    },
+    "properties": {
+    "Local EMS Agency":"San Diego ",
+    "Region":"South East ",
+    "County":"San Diego",
+    "Trauma Center":"Scripps Mercy Hospital",
+    "ACS Adult":"I",
+    "Local EMS Agency Designation - Adult":"I",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.165526,32.75463404 ]
+    },
+    "properties": {
+    "Local EMS Agency":"San Diego ",
+    "Region":"South East ",
+    "County":"San Diego",
+    "Trauma Center":"UC San Diego Medical Center",
+    "ACS Adult":"I",
+    "Local EMS Agency Designation - Adult":"I",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.405704,37.75537523 ]
+    },
+    "properties": {
+    "Local EMS Agency":"San Francisco ",
+    "Region":"Bay Area ",
+    "County":"San Francisco",
+    "Trauma Center":"Zuckerberg San Francisco General Hospital ",
+    "ACS Adult":"I",
+    "Local EMS Agency Designation - Adult":"I",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7237803,34.42945826 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Santa Barbara ",
+    "Region":"South West ",
+    "County":"Santa Barbara",
+    "Trauma Center":"Santa Barbara Cottage Hospital",
+    "ACS Adult":"I",
+    "Local EMS Agency Designation - Adult":"I",
+    "ACS Peds":"II",
+    "Local EMS Agency Designation -  Peds":"II",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9330883,37.31346202 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Santa Clara ",
+    "Region":"Bay Area ",
+    "County":"Santa Clara",
+    "Trauma Center":"Santa Clara Valley Medical Center",
+    "ACS Adult":"I",
+    "Local EMS Agency Designation - Adult":"I",
+    "ACS Peds":"II",
+    "Local EMS Agency Designation -  Peds":"II",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1744641,37.43592715 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Santa Clara ",
+    "Region":"Bay Area ",
+    "County":"Santa Clara",
+    "Trauma Center":"Stanford Health Care/Lucile Packard Children's Hospital",
+    "ACS Adult":"I",
+    "Local EMS Agency Designation - Adult":"I",
+    "ACS Peds":"I",
+    "Local EMS Agency Designation -  Peds":"I",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0893275,37.69813689 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Alameda ",
+    "Region":"Bay Area ",
+    "County":"Alameda",
+    "Trauma Center":"Sutter Health Eden Medical Center",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.701141,38.44369655 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Coastal Valley ",
+    "Region":"North ",
+    "County":"Sonoma",
+    "Trauma Center":"Santa Rosa Memorial Hospital",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0411252,37.91291048 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Contra Costa ",
+    "Region":"Bay Area ",
+    "County":"Contra Costa",
+    "Trauma Center":"John Muir Medical Center, Walnut Creek",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.3509861,34.07403292 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Inland Counties ",
+    "Region":"South East ",
+    "County":"San Bernardino",
+    "Trauma Center":"Arrowhead Regional Medical Center",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.9702765,35.3827875 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Kern ",
+    "Region":"Central ",
+    "County":"Kern",
+    "Trauma Center":"Kern Medical Center",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1591362,34.6880389 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Los Angeles ",
+    "Region":"South West ",
+    "County":"Los Angeles",
+    "Trauma Center":"Antelope Valley Hospital",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2662074,34.03749318 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Los Angeles ",
+    "Region":"South West ",
+    "County":"Los Angeles",
+    "Trauma Center":"Dignity Health California Hospital Medical Center",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.5336466,34.21997912 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Los Angeles ",
+    "Region":"South West ",
+    "County":"Los Angeles",
+    "Trauma Center":"Dignity Health Northridge Hospital Medical Center",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"II",
+    "Local EMS Agency Designation -  Peds":"II",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1863313,33.77967688 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Los Angeles ",
+    "Region":"South West ",
+    "County":"Los Angeles",
+    "Trauma Center":"Dignity Health St. Mary Medical Center",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.5534117,34.39781735 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Los Angeles ",
+    "Region":"South West ",
+    "County":"Los Angeles",
+    "Trauma Center":"Henry Mayo Newhall Memorial Hospital",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1521812,34.13398991 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Los Angeles ",
+    "Region":"South West ",
+    "County":"Los Angeles",
+    "Trauma Center":"Huntington Memorial Hospital",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.1867807,33.80789965 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Los Angeles ",
+    "Region":"South West ",
+    "County":"Los Angeles",
+    "Trauma Center":"Long Beach Memorial Medical Center",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"II",
+    "Local EMS Agency Designation -  Peds":"II",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.7501567,34.07686092 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Los Angeles ",
+    "Region":"South West ",
+    "County":"Los Angeles",
+    "Trauma Center":"Pomona Valley Hospital Medical Center",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4601307,34.27974791 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Los Angeles ",
+    "Region":"South West ",
+    "County":"Los Angeles",
+    "Trauma Center":"Providence Holy Cross Medical Center",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2034021,33.93004576 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Los Angeles ",
+    "Region":"South West ",
+    "County":"Los Angeles",
+    "Trauma Center":"St. Francis Medical Center",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.6323074,36.69609311 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Monterey ",
+    "Region":"Bay Area ",
+    "County":"Monterey",
+    "Trauma Center":"Natividad Medical Center",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.9974038,37.66576213 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Mountain Valley ",
+    "Region":"Central ",
+    "County":"Stanislaus",
+    "Trauma Center":"Doctors Medical Center Modesto",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.9743309,37.66853737 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Mountain Valley ",
+    "Region":"Central ",
+    "County":"Stanislaus",
+    "Trauma Center":"Memorial Medical Center Modesto",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.6652958,33.56086898 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Orange ",
+    "Region":"South West ",
+    "County":"Orange",
+    "Trauma Center":"Mission Hospital Regional Medical Center",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"II",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.8334308,33.75430606 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Orange ",
+    "Region":"South West ",
+    "County":"Orange",
+    "Trauma Center":"Orange County Global Medical Center",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.5451483,33.83958866 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Riverside ",
+    "Region":"South East ",
+    "County":"Riverside",
+    "Trauma Center":"Desert Regional Medical Center",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.1967066,33.91147454 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Riverside ",
+    "Region":"South East ",
+    "County":"Riverside",
+    "Trauma Center":"Riverside University Health System",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"II",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.2377584,33.59130307 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Riverside ",
+    "Region":"South East ",
+    "County":"Riverside",
+    "Trauma Center":"Inland Valley Medical Center",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3131151,38.6693666 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Sacramento ",
+    "Region":"North ",
+    "County":"Sacramento",
+    "Trauma Center":"Dignity Health Mercy San Juan Medical Center",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.4228863,38.46976048 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Sacramento ",
+    "Region":"North ",
+    "County":"Sacramento",
+    "Trauma Center":"Kaiser Permanente South Sacramento",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.1217308,33.12162986 ]
+    },
+    "properties": {
+    "Local EMS Agency":"San Diego ",
+    "Region":"South East ",
+    "County":"San Diego",
+    "Trauma Center":"Palomar Medical Center",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.2241528,32.88471757 ]
+    },
+    "properties": {
+    "Local EMS Agency":"San Diego ",
+    "Region":"South East ",
+    "County":"San Diego",
+    "Trauma Center":"Scripps Memorial Hospital",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.1545011,32.79961237 ]
+    },
+    "properties": {
+    "Local EMS Agency":"San Diego ",
+    "Region":"South East ",
+    "County":"San Diego",
+    "Trauma Center":"Sharp Memorial Hospital",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.2830461,37.88608573 ]
+    },
+    "properties": {
+    "Local EMS Agency":"San Joaquin ",
+    "Region":"North ",
+    "County":"San Joaquin",
+    "Trauma Center":"San Joaquin General Hospital",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8497888,37.36265335 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Santa Clara ",
+    "Region":"Bay Area ",
+    "County":"Santa Clara",
+    "Trauma Center":"Regional Medical Center of San Jose",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.3952972,40.57184736 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Sierra-Sacramento ",
+    "Region":"North ",
+    "County":"Shasta",
+    "Trauma Center":"Dignity Health Mercy Medical Center Redding",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8510476,39.74150332 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Sierra-Sacramento ",
+    "Region":"North ",
+    "County":"Butte ",
+    "Trauma Center":"Enloe Medical Center",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.2492613,38.76626092 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Sierra-Sacramento ",
+    "Region":"North ",
+    "County":"Placer",
+    "Trauma Center":"Sutter Roseville Medical Center",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9379921,38.38779253 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Solano ",
+    "Region":"Bay Area ",
+    "County":"Solano",
+    "Trauma Center":"Kaiser Foundation Hospital - Vacaville",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.8832139,34.207624 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Ventura ",
+    "Region":"South West ",
+    "County":"Ventura",
+    "Trauma Center":"Los Robles Hospital & Medical Center",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2528442,34.27682377 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Ventura ",
+    "Region":"South West ",
+    "County":"Ventura",
+    "Trauma Center":"Ventura County Medical Center",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":"Sutter Delta Medical Center"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2948835,36.32783954 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Central California ",
+    "Region":"Central ",
+    "County":"Tulare",
+    "Trauma Center":"Kaweah Delta Medical Center ",
+    "ACS Adult":"III",
+    "Local EMS Agency Designation - Adult":"III",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.9966048,38.91154247 ]
+    },
+    "properties": {
+    "Local EMS Agency":"El Dorado ",
+    "Region":"North ",
+    "County":"El Dorado",
+    "Trauma Center":"Barton Healthcare System",
+    "ACS Adult":"III",
+    "Local EMS Agency Designation - Adult":"III",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.7915347,38.72447509 ]
+    },
+    "properties": {
+    "Local EMS Agency":"El Dorado ",
+    "Region":"North ",
+    "County":"El Dorado",
+    "Trauma Center":"Marshall Medical Center",
+    "ACS Adult":"III",
+    "Local EMS Agency Designation - Adult":"III",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5358876,37.94728929 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Marin ",
+    "Region":"Bay Area ",
+    "County":"Marin",
+    "Trauma Center":"Marin General Hospital",
+    "ACS Adult":"III",
+    "Local EMS Agency Designation - Adult":"III",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2971708,38.32444148 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Napa ",
+    "Region":"North ",
+    "County":"Napa",
+    "Trauma Center":"Queen of the Valley Medical Center",
+    "ACS Adult":"III",
+    "Local EMS Agency Designation - Adult":"III",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.1418726,40.78423414 ]
+    },
+    "properties": {
+    "Local EMS Agency":"North Coast ",
+    "Region":"North ",
+    "County":"Humboldt",
+    "Trauma Center":"St. Joseph Medical Center",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"III",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.6661296,35.29233618 ]
+    },
+    "properties": {
+    "Local EMS Agency":"San Luis Obispo ",
+    "Region":"South West ",
+    "County":"San Luis Obispo",
+    "Trauma Center":"Sierra Vista Regional Medical Center",
+    "ACS Adult":"III",
+    "Local EMS Agency Designation - Adult":"III",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.4129913,34.9509561 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Santa Barbara ",
+    "Region":"South West ",
+    "County":"Santa Barbara",
+    "Trauma Center":"Dignity Health Marian Regional Medical Center",
+    "ACS Adult":"III",
+    "Local EMS Agency Designation - Adult":"III",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.320529,41.31833557 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Sierra-Sacramento ",
+    "Region":"North ",
+    "County":"Siskyou",
+    "Trauma Center":"Dignity Health Mercy Medical Center Mt. Shasta",
+    "ACS Adult":"III",
+    "Local EMS Agency Designation - Adult":"III",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2190518,40.14848627 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Sierra-Sacramento ",
+    "Region":"North ",
+    "County":"Tehama",
+    "Trauma Center":"Dignity Health St. Elizabeth Community Hospital",
+    "ACS Adult":"III",
+    "Local EMS Agency Designation - Adult":"III",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.5930593,39.13824717 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Sierra-Sacramento ",
+    "Region":"North ",
+    "County":"Yuba",
+    "Trauma Center":"Rideout Regional Medical Center",
+    "ACS Adult":"III",
+    "Local EMS Agency Designation - Adult":"III",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.0473014,38.26200864 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Solano ",
+    "Region":"Bay Area ",
+    "County":"Solano",
+    "Trauma Center":"NorthBay Medical Center",
+    "ACS Adult":"II",
+    "Local EMS Agency Designation - Adult":"III",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.3390458,39.38971292 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Coastal Valley ",
+    "Region":"North ",
+    "County":"Mendocino",
+    "Trauma Center":"Frank Howard Memorial Hospital",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"IV",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.2027404,39.15278226 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Coastal Valley",
+    "Region":"North ",
+    "County":"Mendocino",
+    "Trauma Center":"Ukiah Valley Medical Center",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"IV",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.568752,32.78017921 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Imperial County ",
+    "Region":"South East ",
+    "County":"Imperial",
+    "Trauma Center":"El Centro Regional Medical Center",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"IV",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.5540501,32.95892067 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Imperial County ",
+    "Region":"South East ",
+    "County":"Imperial",
+    "Trauma Center":"Pioneers Memorial Healthcare District",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"IV",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.6711136,35.64047147 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Kern ",
+    "Region":"Central ",
+    "County":"Kern",
+    "Trauma Center":"Ridgecrest Regional Hospital",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"IV",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.0912883,40.89603778 ]
+    },
+    "properties": {
+    "Local EMS Agency":"North Coast ",
+    "Region":"North ",
+    "County":"Humboldt",
+    "Trauma Center":"Mad River Community Hospital",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"IV",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -124.1942088,41.77352267 ]
+    },
+    "properties": {
+    "Local EMS Agency":"North Coast ",
+    "Region":"North ",
+    "County":"Del Norte",
+    "Trauma Center":"Sutter Coast Hospital",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"IV",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.9064457,39.10491308 ]
+    },
+    "properties": {
+    "Local EMS Agency":"North Coast ",
+    "Region":"North ",
+    "County":"Lake ",
+    "Trauma Center":"Sutter Lakeside Hospital",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"IV",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.6277971,40.43691294 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Northern California ",
+    "Region":"North ",
+    "County":"Lassen ",
+    "Trauma Center":"Banner Lassen Hospital",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"IV",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6458078,41.7192506 ]
+    },
+    "properties": {
+    "Local EMS Agency":"Sierra-Sacramento ",
+    "Region":"North ",
+    "County":"Siskiyou",
+    "Trauma Center":"Fairchild Medical Center",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"IV",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Local EMS Agency":"Alameda ",
+    "Region":"Bay Area ",
+    "County":"Alameda",
+    "Trauma Center":"UCSF Benioff Children's Hospital Oakland",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"",
+    "ACS Peds":"I",
+    "Local EMS Agency Designation -  Peds":"I",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Local EMS Agency":"Central California ",
+    "Region":"Central ",
+    "County":"Madera",
+    "Trauma Center":"Valley Children's Hospital",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"",
+    "ACS Peds":"II ",
+    "Local EMS Agency Designation -  Peds":"II",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Local EMS Agency":"Los Angeles ",
+    "Region":"South West ",
+    "County":"Los Angeles",
+    "Trauma Center":"Children's Hospital Los Angeles",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"",
+    "ACS Peds":"I",
+    "Local EMS Agency Designation -  Peds":"I",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Local EMS Agency":"Merced ",
+    "Region":"Central ",
+    "County":"Merced",
+    "Trauma Center":"Agreements with designated TCs in Stanislaus County",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Local EMS Agency":"Orange ",
+    "Region":"South West ",
+    "County":"Orange",
+    "Trauma Center":"Children's Hospital Orange County",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"",
+    "ACS Peds":"II",
+    "Local EMS Agency Designation -  Peds":"II",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Local EMS Agency":"San Benito ",
+    "Region":"Bay Area ",
+    "County":"San Benito",
+    "Trauma Center":"Agreements with designated TCs in Monterrey & Santa Clara Counties",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Local EMS Agency":"San Diego ",
+    "Region":"South East ",
+    "County":"San Diego",
+    "Trauma Center":"Rady Children's Hospital-San Diego",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"",
+    "ACS Peds":"I",
+    "Local EMS Agency Designation -  Peds":"I",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Local EMS Agency":"San Mateo ",
+    "Region":"Bay Area ",
+    "County":"San Mateo",
+    "Trauma Center":"Agreements with designated TCs in San Francisco & Santa Clara Counties",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Local EMS Agency":"Santa Cruz ",
+    "Region":"Bay Area ",
+    "County":"Santa Cruz",
+    "Trauma Center":"Agreements with designated TC in Monterrey County",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Local EMS Agency":"Tuolomne ",
+    "Region":"Central ",
+    "County":"Tuolumne",
+    "Trauma Center":"Agreements with designated TCs in San Joaquin, & Stanislaus Counties ",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Local EMS Agency":"Yolo",
+    "Region":"North ",
+    "County":"Yolo",
+    "Trauma Center":"Agreements with designated TCs in Sacramento & Solano Counties",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.387778,40.585556 ]
+    },
+    "properties": {
+    "Local EMS Agency":"",
+    "Region":"",
+    "County":"Shasta",
+    "Trauma Center":"Shasta Regional Medical Center",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"III",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"NOT DESIGNATED",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3862428,36.83438817 ]
+    },
+    "properties": {
+    "Local EMS Agency":"",
+    "Region":"",
+    "County":"San Benito",
+    "Trauma Center":"Hazel Hawkins Memorial Hospital",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"IV",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.79574,39.52542 ]
+    },
+    "properties": {
+    "Local EMS Agency":"",
+    "Region":"",
+    "County":"Washoe, NV",
+    "Trauma Center":"Renown Regional Medical Center",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.13548,36.13265 ]
+    },
+    "properties": {
+    "Local EMS Agency":"",
+    "Region":"",
+    "County":"Clark, NV",
+    "Trauma Center":"Sunrise Hospital & Medical Center",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1674,36.1596 ]
+    },
+    "properties": {
+    "Local EMS Agency":"",
+    "Region":"",
+    "County":"Clark, NV",
+    "Trauma Center":"University Medical Center of Southern Nevada",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"I",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.114439,36.006749 ]
+    },
+    "properties": {
+    "Local EMS Agency":"",
+    "Region":"",
+    "County":"Clark, NV",
+    "Trauma Center":"St. Rose Dominican Hospital – Siena Campus",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"III",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.3522508,42.18149241 ]
+    },
+    "properties": {
+    "Local EMS Agency":"",
+    "Region":"",
+    "County":"Lake, OR",
+    "Trauma Center":"Lake District Hospital",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"IV",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.784447,42.254033 ]
+    },
+    "properties": {
+    "Local EMS Agency":"",
+    "Region":"",
+    "County":"Klamath, OR",
+    "Trauma Center":"Sky Lakes Medical Center",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"III",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.83055,42.317764 ]
+    },
+    "properties": {
+    "Local EMS Agency":"",
+    "Region":"",
+    "County":"Jackson, OR",
+    "Trauma Center":"Rogue Regional Medical Center",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"II",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8629666,42.33943083 ]
+    },
+    "properties": {
+    "Local EMS Agency":"",
+    "Region":"",
+    "County":"Jackson, OR",
+    "Trauma Center":"Medford Medical Center",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"III",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.343,42.4215 ]
+    },
+    "properties": {
+    "Local EMS Agency":"",
+    "Region":"",
+    "County":"Josephine, OR",
+    "Trauma Center":"Three Rivers Medical Center",
+    "ACS Adult":"",
+    "Local EMS Agency Designation - Adult":"III",
+    "ACS Peds":"",
+    "Local EMS Agency Designation -  Peds":"",
+    "Notes":"",
+    "FIELD12":"",
+    "FIELD13":""
+    }
+  }
+]
+}
